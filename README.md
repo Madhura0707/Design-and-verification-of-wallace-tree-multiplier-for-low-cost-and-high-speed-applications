@@ -1,2 +1,2 @@
 # Design-and-verification-of-wallace-tree-multiplier-for-low-cost-and-high-speed-applications
-Designed an Wallace tree multiplier to reduce the power and to increase the speed by using conditional sum adder and carry save adder which results with the speed of 6.5 watts , verified code  using basys 3(FPGA kit), generated power report using Xilinx Vivado and generated the layout using Cadence Virtuoso
+Designed an Wallace tree multiplier to reduce the power and to increase the speed by using conditional sum adder and carry save adder which results with the speed of 6.5 watts , verified code  using basys 3(FPGA kit), generated power report using Xilinx Vivado and generated the layout using Cadence Virtuoso.
